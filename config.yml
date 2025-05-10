@@ -1,0 +1,18 @@
+terms:
+- 'Artificial Intelligence'
+- 'Machine Learning'
+- 'Computational Chemistry and Modeling'
+- 'Chemoinformatics'
+- 'Chemoinformatics - Computational Chemistry'
+- 'Theoretical and Computational Chemistry'
+- 'Theory - Computational'
+limit: 100
+issue_limit: 30
+md_keys:
+- 'doi'
+- 'title'
+- 'abstract'
+- 'categories'
+- 'publishedDate'
+- 'suppItems'
+# - 'assetLink'
