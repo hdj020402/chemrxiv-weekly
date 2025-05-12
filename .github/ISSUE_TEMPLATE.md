@@ -1,5 +1,5 @@
 ---
-title: Latest 17 Papers - May 11, 2025
+title: Latest 17 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/hdj020402/chemrxiv-daily) page for more papers.**
